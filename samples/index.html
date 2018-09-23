@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>YouTube Thumbnail</title>
+  <link rel="stylesheet" href="../dist/css/video-thumbnail.css">
+  <style>
+    #container-selector { width: 480px; }
+  </style>
+</head>
+
+<body>
+  <div id="container-selector"></div>
+
+  <script src="../dist/js/video-thumbnail.js"></script>
+  <script>
+    var videoThumbnail = new VideoThumbnail({
+      container: document.getElementById('container-selector'),
+      videoId: 'cDZuzgarnao',
+      urlParams: 'controls=0&amp;rel=0&amp;showinfo=0',
+      thumbnail: 'xl'
+    })
+
+    videoThumbnail.init()
+  </script>
+</body>
+</html>
