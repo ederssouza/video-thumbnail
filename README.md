@@ -18,15 +18,15 @@ npm install @ederssouza/video-thumbnail --save
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/ederssouza/@ederssouza/video-thumbnail/tags).
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/ederssouza/video-thumbnail/tags).
 
 ## Authors
 
-See also the list of [contributors](https://github.com/ederssouza/@ederssouza/video-thumbnail/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/ederssouza/video-thumbnail/contributors) who participated in this project.
 
 ## License
 
